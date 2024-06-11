@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
 
 # Generate date range
 date_range = pd.date_range(start='1/1/2020', end='12/31/2020', freq='D')
